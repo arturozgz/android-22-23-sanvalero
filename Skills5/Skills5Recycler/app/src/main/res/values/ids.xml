@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="idNombre" type="id" />
-    <item name="idInfo" type="id" />
-    <item name="idInf" type="id">idinf</item>
-    <item name="idImag" type="id" />
-    <item name="idImage" type="id">idimag</item>
-</resources>
